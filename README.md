@@ -32,11 +32,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-|              |               |
 | ------------ | ------------- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=pie&theme=tokyonight)
-
-
+| ![Stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight) |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=compact&theme=tokyonight) |
 
 ---
 

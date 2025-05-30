@@ -10,10 +10,7 @@
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📊 Data Analysis & Statistics
 
@@ -44,19 +41,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+| GitHub Stats | Top Languages |
+| ------------ | ------------- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=default&theme=tokyonight) |
 
-<div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; align-items: center;">
-
-<div style="flex: 1; min-width: 300px; max-width: 500px;">
-  ![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight)
-</div>
-
-<div style="flex: 1; min-width: 300px; max-width: 300px;">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=compact&theme=tokyonight)
-</div>
-
-</div>
 
 ---
 

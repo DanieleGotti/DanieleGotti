@@ -54,8 +54,8 @@
 
 ## 📊 GitHub Stats
 
-![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleGottiDev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGottiDev&layout=compact&theme=tokyonight)
+![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=compact&theme=tokyonight)
 
 ---
 

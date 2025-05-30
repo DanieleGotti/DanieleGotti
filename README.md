@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Daniele Gotti
 
-🎓 Master's Student in Computer Engineering  
-📊 Specialization in Data Science & Data Engineering  
+🎓 Master's Student in Computer Engineering. Specialization in Data Science & Data Engineering  
 📍 University of Bergamo
 
 ---
@@ -32,8 +31,11 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| ------------ | ------------- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight) |  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=compact&theme=tokyonight) |
+---
+
+## 📈 Stats and Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DanieleGotti&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleGotti&layout=compact&theme=tokyonight) 
 
 ---
 

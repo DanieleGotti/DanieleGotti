@@ -6,7 +6,7 @@ Computer Engineering (Data Science & Data Engineering) at the University of Berg
 
 🏎️ **Formula Student** 
 
-Software Engineer (Data & Telemetry) for E-Racing Bergamo. I designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis.  
+Software Engineer (Data & Telemetry) for E-Racing Bergamo. I designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis of the Formula Student car.  
 
 🎵 **Classical Guitar**  
 

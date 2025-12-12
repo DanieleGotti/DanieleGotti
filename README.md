@@ -1,19 +1,23 @@
 ## 👋 Hi, I'm Daniele Gotti
 
 🎓 **Master’s Student** 
+
 Computer Engineering (Data Science & Data Engineering) at the University of Bergamo, Italy 🇮🇹. Focus in Machine Learning, AI, mathematical modeling, optimization, modern software development.
 
 🏎️ **Formula Student** 
+
 Software Engineer (Data & Telemetry) for E-Racing Bergamo, I'm responsible for telemetry and data acquisition of the Formula Student race car:  
-- Designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis  
-- Collaborate on the implementation of ECU and calibration of new sensors on the vehicle  
-- Participate in track tests and bench testing to collect data and analyze vehicle performance  
+- Designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis.  
+- Collaborate on the implementation of ECU and calibration of new sensors on the vehicle.  
+- Participate in track tests and bench testing to collect data and analyze vehicle performance.  
 
 🎵 **Classical Guitar**  
-Finalizing a Conservatory degree in Classical Guitar. This path taught me discipline, strong focus, and how to perform under pressure 
+
+Finalizing a Conservatory degree in Classical Guitar. This path taught me discipline, strong focus, and how to perform under pressure. 
 
 🚀 **Career Goals**  
-Seeking a challenging role in the **Automotive/Motorsport sector** (R&D, Data or Software) to **drive innovation and performance**
+
+Seeking a challenging role in the Automotive/Motorsport sector(R&D, Data or Software) to drive innovation and performance.
 
 ## 🔧 Tech Stack
 

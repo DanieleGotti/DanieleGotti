@@ -14,7 +14,7 @@ Finalizing a Conservatory degree in Classical Guitar. This path taught me discip
 
 🚀 **Career Goals**  
 
-Seeking a challenging role in the Automotive/Motorsport sector(R&D, Data or Software) to drive innovation and performance.
+Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Software) to drive innovation and performance.
 
 ## 💻 Languages and Tools
 

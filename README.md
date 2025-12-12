@@ -16,9 +16,8 @@ Finalizing a Conservatory degree in Classical Guitar. This path taught me discip
 
 Seeking a challenging role in the Automotive/Motorsport sector(R&D, Data or Software) to drive innovation and performance.
 
-## 🔧 Tech Stack
+## 💻 Languages and Tools
 
-<h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

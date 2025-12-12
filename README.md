@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Daniele Gotti
+## 👋 Hi, I'm Daniele 
 
 🎓 **Master’s Student** 
 

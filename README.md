@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Daniele Gotti
 
 🎓 **Master’s Student** 
-– Computer Engineering (Data Science & Data Engineering) at the University of Bergamo, Italy 🇮🇹  
+- Computer Engineering (Data Science & Data Engineering) at the University of Bergamo, Italy 🇮🇹  
 - Focus in Machine Learning, AI, mathematical modeling, optimization, modern software development 
 
 🏎️ **Formula Student** 
-– Software Engineer (Data & Telemetry) for E-Racing Bergamo
+- Software Engineer (Data & Telemetry) for E-Racing Bergamo
 - Responsible for telemetry and data acquisition of the Formula Student race car  
 - Designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis  
 - Collaborate on the implementation of ECU and calibration of new sensors on the vehicle  
@@ -52,7 +52,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 ## 📊 Stats
 

@@ -43,9 +43,3 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
 <a href="https://www.linkedin.com/in/daniele-gotti-194556331" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Daniele%20Gotti-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
----
-
-<img src="./header.png" width="100%" />
-
----

@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  # Aggiorna ogni 12 ore
+  schedule: [{cron: "0 */12 * * *"}]
+  # Permette di avviarlo manualmente
+  workflow_dispatch:
+  # Aggiorna ad ogni push sul main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Il token che abbiamo creato prima
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opzioni generali
+          user: DanieleGotti  
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
+          
+          # Statistiche Linguaggi
+          plugin_languages: yes
+          # plugin_languages_ignored: html, css  
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 16
+          
+          # Opzione per i repository privati (IMPORTANTE)
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming

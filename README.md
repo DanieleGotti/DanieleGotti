@@ -38,6 +38,12 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+## 📊 GitHub Stats
+<p align="left">
+  <img src="github-metrics.svg" width="400">
+</p>
+
+
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/in/daniele-gotti-194556331" target="_blank">

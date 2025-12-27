@@ -39,7 +39,7 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="github-metrics.svg" width="400">
 </p>
 

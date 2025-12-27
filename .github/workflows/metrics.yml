@@ -32,4 +32,4 @@ jobs:
           
           # Opzione per i repository privati
           plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
+          plugin_languages_categories: programming

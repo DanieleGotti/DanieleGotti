@@ -74,7 +74,7 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
 </p>
 
 ## 🟩 Contributions
-![Snake animation](https://github.com/DanieleGotti/DanieleGotti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanieleGotti/DanieleGotti/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📫 Contact
 

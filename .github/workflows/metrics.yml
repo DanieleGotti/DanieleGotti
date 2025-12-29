@@ -22,29 +22,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: Europe/Rome
-
-                    # Attività recente
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-
-          # Abitudini e anzianità GitHub
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-
-          # Calendario contributi
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          # Commit stats
-          plugin_commit: yes
-
-          # Achievement
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
           
           # Statistiche Linguaggi
           plugin_languages: yes

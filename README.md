@@ -16,10 +16,6 @@ Finalizing a Conservatory degree in Classical Guitar. This path taught me discip
 
 Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Software) to drive innovation and performance.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="github-metrics.svg" width="500">
-</p>
 
 <p align="center">
   <!-- PROGRAMMING LANGUAGES -->
@@ -69,6 +65,12 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
+</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="github-metrics.svg" width="500">
 </p>
 
 

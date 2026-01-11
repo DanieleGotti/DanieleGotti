@@ -29,13 +29,7 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="MATLAB" title="MATLAB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="25" alt="R Language" title="R/Statistical Learning" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP" title="PHP" />
-  <img width="12" />
   <!-- DATA SCIENCE & MACHINE LEARNING -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="25" alt="NumPy" title="NumPy" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch" title="PyTorch" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="25" alt="TensorFlow" title="TensorFlow" />
@@ -49,6 +43,8 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP" title="PHP" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot" title="Spring Boot" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="Dart" />
@@ -56,10 +52,6 @@ Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="Flutter" />
   <img width="12" />
   <!-- DATABASE & TOOLS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25" alt="SQLite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="MongoDB" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" />

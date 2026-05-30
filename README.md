@@ -8,14 +8,6 @@ Computer Engineering (Data Science & Data Engineering) at the University of Berg
 
 Software Engineer (Data & Telemetry) for E-Racing Bergamo. I designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis of the Formula Student car.  
 
-🎵 **Classical Guitar**  
-
-Finalizing a Conservatory degree in Classical Guitar. This path taught me discipline, strong focus, and how to perform under pressure. 
-
-🚀 **Career Goals**  
-
-Seeking a challenging role in the Automotive/Motorsport sector (R&D, Data or Software) to drive innovation and performance.
-
 
 <p align="center">
   <!-- PROGRAMMING LANGUAGES -->

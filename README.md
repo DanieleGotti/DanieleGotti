@@ -2,17 +2,15 @@
 
 🎓 **Master’s Student** 
 
-Computer Engineering (Data Science & Data Engineering) at the University of Bergamo, Italy 🇮🇹. Focus in Machine Learning, AI, mathematical modeling, optimization, modern software development.
+Computer Engineer (Data Science & Data Engineering) at the University of Bergamo, Italy 🇮🇹. Focus in Machine Learning, AI, mathematical modeling, optimization and software development.
 
-🏎️ **Formula Student** 
+🏎️ **Formula SAE** 
 
-Software Engineer (Data & Telemetry) for E-Racing Bergamo. I designed and implemented a complete real-time data acquisition and visualization system from scratch, enabling live monitoring and post-session analysis of the Formula Student car.  
+Software Engineer (Data & Telemetry) for E-Racing Bergamo (Formula SAE Team). Seeking a challenging role in the Automotive/Motorsport sector.  
 
 
 <p align="center">
   <!-- PROGRAMMING LANGUAGES -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="25" alt="embeddedc logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++" title="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" title="Java" />
@@ -21,27 +19,6 @@ Software Engineer (Data & Telemetry) for E-Racing Bergamo. I designed and implem
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="MATLAB" title="MATLAB" />
   <img width="12" />
-  <!-- DATA SCIENCE & MACHINE LEARNING -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="25" alt="PyTorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="Jupyter" title="Jupyter Notebook" />
-  <img width="12" />
-  <!-- WEB & MOBILE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot" title="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
 </p>
 
 

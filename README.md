@@ -6,7 +6,7 @@ Computer Engineer with a strong interest in the automotive sector, control syste
 
 🏎️ **Automotive & Motorsport**
 
-Former Software Engineer (Data Acquisition & Telemetry) at **E-Racing Bergamo**, a Formula SAE team, where I worked on data acquisition and telemetry systems for a race car.
+Former Software Engineer at **E-Racing Bergamo**, a Formula SAE team, where I worked on data acquisition and telemetry systems for a race car.
 
 🎯 **Career Goals**
 
